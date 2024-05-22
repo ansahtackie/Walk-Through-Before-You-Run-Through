@@ -46,9 +46,11 @@ Our group project focused on developing a comprehensive walkthrough for the Phot
 
 #### Hack The Box Site
 - We accessed the Hack The Box site for the challenge information and the file.
+- Hack The Box (HTB) is an open source cybersecurity training platform that provides a variety of hacking experiences, from labs and challenges to capture-the-flag (CTF) competitions and educational content. The challenged solved was the "Photon Lockdown" challenge. The Photon Lockdown is a challenge that requires users to crack a code by finding a flag.
 
 
 
-## Steps
+## Steps Used
+
   
 
