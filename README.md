@@ -1,11 +1,11 @@
 # Cybersecurity Bootcamp Capstone Project  |  HackTheBox Challenge Walkthrough 
 
-## Objective
+## Objective:
 
 Our group project focused on developing a comprehensive walkthrough for the Photon Lockdown challenge on Hack The Box (HTB). This challenge required us to crack a code and locate the hidden flag. Through collaborative efforts, we documented our approach and solutions, providing detailed insights and step-by-steo instruction to help others solve the challenge. 
 
 
-### Skills Learned
+## Skills Learned:
 
 #### Penetration Testing
 - Gaining practical expereince in identifying and exploiting vulnerabilities.
@@ -36,7 +36,7 @@ Our group project focused on developing a comprehensive walkthrough for the Phot
 - Presenting the final walkthrough in a clear and organized manner.
 
 
-### Tools Used
+## Tools Used:
 
 #### Virtual Machines
 - Kali Linux virtual machine used for the project.
@@ -50,7 +50,7 @@ Our group project focused on developing a comprehensive walkthrough for the Phot
 
 
 
-## Steps Used
+## Steps Used:
 
 #### Accessing The Challenge from HTB
 - Create an account on HTB using your email address and password. If you have an account you can log in with the email and pass word.
