@@ -1,4 +1,4 @@
-# Cybersecurity Bootcamp Capstone Project  |  HackTheBox Challenge Walkthrough 
+# Capstone Project  |  HackTheBox Challenge Walkthrough 
 
 ## Objective:
 
