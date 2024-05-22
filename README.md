@@ -38,8 +38,15 @@ Our group project focused on developing a comprehensive walkthrough for the Phot
 
 ### Tools Used
 
-- Kali linux VM
-- HackTheBox
+#### Virtual Machines
+- Kali Linux virtual machine used for the project.
+
+#### Linux Command Line Tools
+- Basic command line tools like "grep", "find", "unzip", "cat", "file", "ls-la", "sudo unsquashfs" and others to solve the task.
+
+#### Hack The Box Site
+- We accessed the Hack The Box site for the challenge information and the file.
+
 
 
 ## Steps
